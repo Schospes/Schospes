@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin [Dein Name]!
+# 👋 Hi, ich bin Nicki!
 
 💻 **Tech-Stack**:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
