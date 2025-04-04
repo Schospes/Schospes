@@ -22,7 +22,3 @@ Ich suche aktiv nach einem **Praktikum** in der Softwareentwicklung, bei dem ich
 📧 **E-Mail**: vanramme90@gmail.com  
 
 Ich freue mich darauf, von dir zu hören!
-
----
-
-Jetzt sind die Icons des Tech-Stacks nebeneinander und es gibt keine unnötigen Abstände mehr. Passt das besser?
